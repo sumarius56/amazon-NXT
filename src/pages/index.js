@@ -9,6 +9,7 @@ export default function Home({products}) {
     <div className="bg-gray-100">
       <Head>
         <title>Amazon NXT</title>
+        
       </Head>
 
       
